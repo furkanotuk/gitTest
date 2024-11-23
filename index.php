@@ -1,5 +1,6 @@
 <?php 
 
-$vrbl = "TEST";
+$variable = "Git Test";
 
+echo $variable; // Output : Git Test
 ?>
